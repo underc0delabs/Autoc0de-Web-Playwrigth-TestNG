@@ -1,4 +1,4 @@
-
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/underc0delabs/Autoc0de-Web-Playwrigth-TestNG/blob/main/LICENSE)
 
 
 # Autoc0de - TestNG - Automation FrontEnd Framework
