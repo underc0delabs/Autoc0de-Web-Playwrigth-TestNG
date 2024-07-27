@@ -1,4 +1,5 @@
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/underc0delabs/Autoc0de-Web-Playwrigth-TestNG/blob/main/LICENSE) [![Execute Test Manualy](https://github.com/Joel-Vitelli/Autoc0de-Web-Playwrigth-TestNG/actions/workflows/Tests.yml/badge.svg?branch=main)](https://github.com/Joel-Vitelli/Autoc0de-Web-Playwrigth-TestNG/actions/workflows/Tests.yml)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://github.com/underc0delabs/Autoc0de-Web-Playwrigth-TestNG/blob/main/LICENSE)
+[![Execute Test Manualy](https://github.com/underc0delabs/Autoc0de-Web-Playwrigth-TestNG/blob/main/.github/workflows/Tests.yml/badge.svg?branch=main)](https://github.com/underc0delabs/Autoc0de-Web-Playwrigth-TestNG/blob/main/.github/workflows/Tests.yml)
 
 
 # Autoc0de - TestNG - Automation FrontEnd Framework
